@@ -1,0 +1,1 @@
+#This is a pure trial version of the application from the tutorial in podcasts from [*BuildingWebApps.com*](http://www.buildingWebApps.com/).
